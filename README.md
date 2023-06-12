@@ -9,8 +9,12 @@ A new repository for WPR261 Assignment
 <p>  
 I am currently pursuing a Diplioma of information Technology Qualification at Belgium Campus ITversity .
 I am a second year student.
-One of my soft skills are:
-collaborative skill/Teamwork and Time management.
+One of my soft skills are: <br>
+*collaborative skill/Teamwork <br>
+*Time management <br>
+*Listening skills <br>
+*Patience <br>
+*Emapthy <br> 
 <p>  
 </body>  
 
